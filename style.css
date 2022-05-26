@@ -1,0 +1,106 @@
+body{
+    background: url(./coffee.jpg);
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+#sojz{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    background-color: red;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+#sojz:hover{
+    color: black;
+}
+h1:hover{
+    color: red;
+}
+#today{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    background-color: gray;
+    
+}
+#today:hover{
+    color: red;
+}
+h2:hover{
+    /* background-color: gray; */
+    position: sticky;
+    top: 0px;
+}
+#dont{
+    color: white;
+    text-align: center;
+    font-size: 40px ;
+    margin-top: -20px;
+}
+#span1{
+    font-size: 50px;
+    color: yellow;
+}
+img{
+    width: 50%;
+}
+.divi{
+    width: 23%;
+    background-color: green;
+    float: left;
+    height: 300px;
+    margin: 10px;
+}
+img{
+    width: 100%;
+    height: 100%;
+
+}
+#des{
+    color: greenyellow;
+    font-size: 30px;
+    background-color: grey;
+}
+#lists{
+    font-size: 50px;
+    color: hotpink;
+    text-align: center;
+}
+.list{
+    font-size: 30px;
+    color: ivory;
+}
+/* #forform{
+    background-color: #e6e6fa;
+    height: 300px;
+    width: 200px;
+} */
+#any{
+    font-style: italic;
+    font-size: 40px;
+    color: lavenderblush;
+}
+.label{
+    font-weight: 100;
+    color: lavenderblush;
+}
+#insta{
+    color: greenyellow;
+
+}
+#fb{
+    color: greenyellow;
+}
+
+#video{
+    text-align: center;
+    color: hotpink;
+    font-style: italic;
+    font-size: 30px;
+
+}
